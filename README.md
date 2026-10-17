@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Full Stack Developer from Delhi. I build modern web applications with React, Next.js, Node.js, and MongoDB. Passionate about creating clean, scalable products that solve real problems — from business management systems to travel platforms.
 
 
 # 💻 Tech Stack:
